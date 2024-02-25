@@ -17,5 +17,5 @@ Este proyecto utiliza las siguientes tecnologías:
 
 Enlace:
 
-[Ver Video Tutorial](https://drive.google.com/drive/folders/1YtPflzrOBjHISU8_JU8oERtBlTiLd8Fp?usp=sharing)
+[Ver Video](https://drive.google.com/drive/folders/1YtPflzrOBjHISU8_JU8oERtBlTiLd8Fp?usp=sharing)
 
